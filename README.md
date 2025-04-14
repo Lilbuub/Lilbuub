@@ -8,18 +8,19 @@
 
 ## Olá Pessoal! ✨😊✨
 
-Meu nome é Thais Giovanna, estou cursando Análise de Desenvolvimento de Sistemas.
+Meu nome é Thais Giovanna, estou cursando atualmente Ciencia da Computação.
 
 ---
 
 **Sobre mim:**
-- 📚 Atualmente estudando GitHub e JavaScript, em estagio inicial.
+- 📚 Atualmente estudando GitHub e Python, em estagio inicial.
 - 📙 Modelagem de Software
-- ✔️ Tenho 26 anos
+- ✔️ Tenho 28 anos
 
 ![](https://media.tenor.com/rkY5QA5c3VAAAAAC/gato-digitando.gif)
 
 **Metas Atuais:**
-- Java Script
-- React
----
+- Python
+- C
+- Git
+  
