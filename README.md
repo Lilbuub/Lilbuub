@@ -23,4 +23,5 @@ Meu nome é Thais Giovanna, estou cursando atualmente Ciencia da Computação.
 - Python
 - C
 - Git
+- Javascript
   
